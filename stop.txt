@@ -1,0 +1,3 @@
+This is a simple text file. It contains some words that are common and should be removed. 
+The goal is to remove stop words from this sentence and keep only the meaningful ones.
+Stop words include words like "is", "the", "and", "a", "an", etc.
